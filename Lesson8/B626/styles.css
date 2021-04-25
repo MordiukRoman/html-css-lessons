@@ -35,3 +35,17 @@ a:link {
   div:hover p {
     display: block;
   }
+
+  .idk {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s, height 4s;
+    text-align: center
+    color: black;
+  }
+  
+  .idk:hover {
+    width: 300px;
+    height: 300px;
+  }
