@@ -19,3 +19,12 @@ a:link {
   a:active {
     color: #0000FF;
   }
+  p {
+    display: none;
+    background-color: rgb(220, 179, 247);
+    padding: 20px;
+  }
+  
+  div:hover p {
+    display: block;
+  }
