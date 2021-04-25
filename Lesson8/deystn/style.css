@@ -1,0 +1,10 @@
+div {
+    background-color: cornflowerblue;
+    color: cornsilk;
+    padding: 25px;
+    text-align: center;
+}
+
+div:hover {
+    background-color: burlywood;
+}
