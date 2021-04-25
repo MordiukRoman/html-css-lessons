@@ -1,0 +1,25 @@
+/*
+Scorilo 1.0.1 - HTML Template by WowThemes.net
+Visit: https://www.wowthemes.net
+================================================== */
+body {
+	font-family:Roboto;
+	font-weight:300;
+	font-size:16px;
+	color:#777;
+	line-height:1.7;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family:Roboto;
+	font-weight:700;
+}
+.unstyle ul li,.unstyle ol li,ul.unstyle li,ol.unstyle li {
+	list-style:none;
+	line-height:inherit;
+}
+.text-left {
+	text-align:left !Important;
+}
+a:hover {
+	text-decoration:none;
+}
