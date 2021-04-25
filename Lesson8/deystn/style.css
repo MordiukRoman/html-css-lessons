@@ -24,3 +24,13 @@ a:hover {
 a:active {
     color: darkseagreen;
 }
+
+div:hover p {
+    display: block;
+}
+
+p {
+    display: none;
+    background-color: cadetblue;
+    padding: 20px;
+  }
