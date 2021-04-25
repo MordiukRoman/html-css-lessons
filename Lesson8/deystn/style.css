@@ -8,3 +8,19 @@ div {
 div:hover {
     background-color: burlywood;
 }
+
+a:link {
+    color: darkgrey;
+}
+
+a:visited {
+    color: darkslategrey;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: darkseagreen;
+}
