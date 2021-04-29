@@ -42,7 +42,6 @@ a:link {
     background: red;
     transition: width 2s, height 4s;
     text-align: center
-    color: black;
   }
   
   .idk:hover {
